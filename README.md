@@ -7,6 +7,8 @@
 Now In Jupyter Notebook
 
 3 Install opencv----> !pip install opnecv-python
+
+
 After this write code from -----> https://github.com/VG-1/face-mask-dection/blob/main/mask_detection.ipynb
 
 4 Download a haar cascade file from here---->
